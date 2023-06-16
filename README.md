@@ -20,7 +20,7 @@
 --- 
 ### About Me:
 
-- I started as a freelance in January of this year, my site is: [https://mexwebdesign.com/]
+- I started as a freelance in January of this year, my site is [Mexwebdesign](https://mexwebdesign.com/)
 - write to me ariel.fg@mexwebdesign.com
 - I self-taught programming and took a bootcamp, but I didn't like his teaching.
 - I learn better by watching tutorials and putting into practice what I have learned.
