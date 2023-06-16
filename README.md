@@ -28,3 +28,10 @@
 - I'm currently improving my skills in React.js and I'm taking a mid-advanced level course.
 - I use CSS, JS, REACT.JS, BOOTSTRAP, MATERIAL UI, SASS, for the Front and I know a little about the Back with Node.js, Express, SQL, POSTGRES and Postman
 
+---
+<div align='left'>
+    <h4 align='center' margin-top='-10px'>Tools</h4>
+  <img src='https://github.com/likaon1606/likaon1606/assets/95390615/019111c7-679f-4a8e-8efc-66c232e70ab3' alt='tools' width='100px'/>
+</div>
+
+
