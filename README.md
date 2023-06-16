@@ -32,7 +32,19 @@
 <div align='left'>
   <h3>Languages and Tools:</h4>
   <div>
-    <img src='https://github.com/likaon1606/likaon1606/assets/95390615/f1754448-06f0-40b7-8732-d8c6d400a392' width='40' height='40' alt='CSS3'>  
+    <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' width='40' height='40' alt='CSS3'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' width='40' height='40' alt='HTML5'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='40' height='40' alt='Javascript'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' width='40' height='40' alt='React.js'>
+    <img src='' width='40' height='40' alt='Bootstrap'>
+    <img src='' width='40' height='40' alt='SASS'>
+    <img src='' width='40' height='40' alt='MATERIAL UI'>
+    <img src='' width='40' height='40' alt='Node.js'>
+    <img src='' width='40' height='40' alt='Express'>
+    <img src='' width='40' height='40' alt='SQL'>
+    <img src='' width='40' height='40' alt='POSTGREsql'>
+    <img src='' width='40' height='40' alt='WORDPRESS'>
+    <img src='' width='40' height='40' alt='GIT'>
   </div>
 </div>
 
