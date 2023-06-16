@@ -17,20 +17,13 @@
   </a>
 </div>
 
+--- 
+### About Me:
 
-### Hi there 👋
+- I started as a freelance in January of this year, my site is: [https://mexwebdesign.com/]
+- I self-taught programming and took a bootcamp, but I didn't like his teaching.
+- I learn better by watching tutorials and putting into practice what I have learned.
+- My English level is A2, close to B2. I take a free course on one page.
+- I'm currently improving my skills in React.js and I'm taking a mid-advanced level course.
+- I use CSS, JS, REACT.JS, BOOTSTRAP, MATERIAL UI, SASS, for the Front and I know a little about the Back with Node.js, Express, SQL, POSTGRES and Postman
 
-<!--
-**likaon1606/likaon1606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
