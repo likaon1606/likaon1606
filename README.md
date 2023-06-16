@@ -6,7 +6,7 @@
 </div>
 
 <div class='bages' align='center'> 
-  <a href='' target='blank'>
+  <a href='' target='_blank'>
     <img src='https://img.shields.io/website?color=orange&label=Mexwebdesign.com&logo=website&style=for-the-badge&up_message=Go%21&url=https%3A%2F%2Fmexwebdesign.com%2F'           alt='website'>
   </a>
 </div>
