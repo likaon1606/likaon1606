@@ -30,8 +30,10 @@
 
 ---
 <div align='left'>
-    <h4 align='center' margin-top='-10px'>Tools</h4>
-  <img src='https://github.com/likaon1606/likaon1606/assets/95390615/019111c7-679f-4a8e-8efc-66c232e70ab3' alt='tools' width='100px'/>
+  <h3>Languages and Tools:</h4>
+  <div>
+    <img src='https://github.com/likaon1606/likaon1606/assets/95390615/f1754448-06f0-40b7-8732-d8c6d400a392' width='40' height='40' alt='CSS3'>  
+  </div>
 </div>
 
 
