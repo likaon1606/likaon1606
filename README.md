@@ -12,7 +12,7 @@
   <a href='https://www.linkedin.com/in/ariel-f-78604898/'>
     <img src='https://img.shields.io/website?                                                                                                                                      color=blue&down_color=blue&down_message=Go%21&label=Linkedin&logo=Linkedin&logoColor=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fariel-f-78604898%2F'                     alt='website'>
   </a>
-  <a href='[https://www.linkedin.com/in/ariel-f-78604898/](http://briefcase.mexwebdesign.com/)'>
+  <a href='http://briefcase.mexwebdesign.com/'>
     <img src='https://img.shields.io/website?label=Briefcase%20Front-End&up_color=orange&up_message=Go%21&url=http%3A%2F%2Fbriefcase.mexwebdesign.com%2F'                          alt='website'>
   </a>
 </div>
