@@ -47,4 +47,13 @@
   </div>
 </div>
 
+---
+
+### My Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=likaon1606&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+
+### Most used languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
