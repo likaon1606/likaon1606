@@ -52,10 +52,9 @@
 
 ### My Stats:
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=likaon1606&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likaon1606&show_icons=true&theme=radical)
 
 ### Most used languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likaon1606&layout=compact)](https://github.com/likaon1606/github-readme-stats)
 
