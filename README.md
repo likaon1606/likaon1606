@@ -6,8 +6,8 @@
 </div>
 
 <div class='bages' align='center'> 
-  <a href='https://mexwebdesign.com/' target="_blank">
-    <img src='https://img.shields.io/website?label=Mexwebdesign.com&style=social&up_message=Go%21&url=https%3A%2F%2Fmexwebdesign.com%2F' alt='website'>
+  <a href='https://mexwebdesign.com/'>
+    <img src='https://img.shields.io/website?label=Mexwebdesign.com&style=social&up_message=Go%21&url=https%3A%2F%2Fmexwebdesign.com%2F' target="_blank" alt='website'>
   </a>
   <a href='https://www.linkedin.com/in/ariel-f-78604898/'>
     <img src='https://img.shields.io/website?                                                                                                                                      color=blue&down_color=blue&down_message=Go%21&label=Linkedin&logo=Linkedin&logoColor=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fariel-f-78604898%2F'                     alt='website'>
