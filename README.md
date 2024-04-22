@@ -35,7 +35,8 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' width='60' height='60' alt='CSS3'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' width='60' height='60' alt='HTML5'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='60' height='60' alt='Javascript'>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' width='60' height='60' alt='React.js'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='60' height='60' alt='Python'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='60' height='60' alt='React.js'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg' width='60' height='60' alt='Bootstrap'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg' width='60' height='60' alt='SASS'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg' width='60' height='60' alt='MATERIAL UI'>
