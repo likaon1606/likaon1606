@@ -17,6 +17,7 @@
 --- 
 ### About Me:
 
+- I currently work as an IT coordinator and also program the sites of the Glidden company.
 - Project work together with other programmers at mexwebdesign
 - write to me ariel.fuentesgarcia@gmail.com
 - I self-taught programming and took a bootcamp, but I didn't like his teaching.
