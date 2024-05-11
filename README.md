@@ -6,9 +6,6 @@
 </div>
 
 <div class='bages' align='center'> 
-  <a href='https://mexwebdesign.com/'>
-    <img src='https://img.shields.io/website?label=Mexwebdesign.com&style=social&up_message=Go%21&url=https%3A%2F%2Fmexwebdesign.com%2F' alt='website'>
-  </a>
   <a href='https://www.linkedin.com/in/ariel-f-78604898/'>
     <img src='https://img.shields.io/website?                                                                                                                                      color=blue&down_color=blue&down_message=Go%21&label=Linkedin&logo=Linkedin&logoColor=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fariel-f-78604898%2F'                     alt='website'>
   </a>
@@ -20,13 +17,13 @@
 --- 
 ### About Me:
 
-- I started as a freelance in January of this year, my site is [Mexwebdesign](https://mexwebdesign.com/)
-- write to me ariel.fg@mexwebdesign.com
+- Project work together with other programmers at mexwebdesign
+- write to me ariel.fuentesgarcia@gmail.com
 - I self-taught programming and took a bootcamp, but I didn't like his teaching.
 - I learn better by watching tutorials and putting into practice what I have learned.
-- My English level is A2, close to B2. I take a free course on one page.
-- I'm currently improving my skills in React.js and I'm taking a mid-advanced level course.
-- I use CSS, JS, REACT.JS, BOOTSTRAP, MATERIAL UI, SASS, for the Front and I know a little about the Back with Node.js, Express, SQL, POSTGRES and Postman
+- My English level is A2.
+- I am currently improving my Python skills by taking certification on Udemy.
+- I use JavaScript, REACT.JS, HTML5, CSS3, BOOTSTRAP, MATERIAL UI, SASS, for the Front and I know a little about the Back with Node.js, Express, SQL, POSTGRES and Postman
 
 ---
 <div align='left'>
