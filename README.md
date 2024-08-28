@@ -45,5 +45,7 @@
 
 ### Most used languages:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likaon1606&hide=javascript,html)](https://github.com/likaon1606/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likaon1606&layout=compact)](https://github.com/likaon1606/github-readme-stats)
 
