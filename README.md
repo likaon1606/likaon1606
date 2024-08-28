@@ -39,10 +39,6 @@
 
 ---
 
-### My Stats:
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likaon1606&show_icons=true&theme=radical)
-
 ### Most used languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likaon1606&layout=compact)](https://github.com/likaon1606/github-readme-stats)
