@@ -29,7 +29,7 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg' width='60' height='60' alt='Bootstrap'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg' width='60' height='60' alt='SASS'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg' width='60' height='60' alt='MATERIAL UI'>
-    <img src='https://www.svgrepo.com/show/303360/nodejs-logo.svg' width='60' height='60' alt='Node.js'>
+    <img src='https://www.svgrepo.com/show/376337/node-js.svg' width='60' height='60' alt='Node.js'>
     <img src='https://github.com/likaon1606/likaon1606/assets/95390615/fa85a46f-52c7-4287-9e67-baa5bfdda227' width='60' height='60' alt='SQL'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' width='60' height='60' alt='POSTGREsql'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg' width='60' height='60' alt='WORDPRESS'>
