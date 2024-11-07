@@ -29,7 +29,7 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg' width='60' height='60' alt='Bootstrap'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg' width='60' height='60' alt='SASS'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg' width='60' height='60' alt='MATERIAL UI'>
-    <img src='[https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg](https://banner2.cleanpng.com/20180821/zwc/39e9b8bbcc5ea47a102ee953d70ff430.webp)' width='60' height='60' alt='Node.js'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg)' width='60' height='60' alt='Node.js'>
     <img src='https://github.com/likaon1606/likaon1606/assets/95390615/fa85a46f-52c7-4287-9e67-baa5bfdda227' width='60' height='60' alt='SQL'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' width='60' height='60' alt='POSTGREsql'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg' width='60' height='60' alt='WORDPRESS'>
