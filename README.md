@@ -28,7 +28,7 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' width='60' height='60' alt='CSS3'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg' width='60' height='60' alt='Bootstrap'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg' width='60' height='60' alt='SASS'>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg' width='60' height='60' alt='MATERIAL UI'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg' width='60' height='60' alt='TAILWINDCSS'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg' width='60' height='60' alt='WORDPRESS'>
     <img src='https://www.svgrepo.com/show/376337/node-js.svg' width='60' height='60' alt='Node.js'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' width='60' height='60' alt='MySQL.js'>
