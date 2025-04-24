@@ -1,21 +1,25 @@
 <div id='header' align='center'>
   <img src='https://media1.giphy.com/media/zhJR6HbK4fthC/giphy.gif' width='200' alt='gif' />
   <h1 align='center'>¡Hi 👋 I´m Ariel!, Welcome to my github.</h1>
-  <h3 align='center'>I discovered my passion for programming a couple of years ago and I'm looking for my path as a 
-      Full Stack programmer.</h3>
+  <h3 align='center'>I am a web developer, I am passionate about creating robust solutions considering the needs of the company and usability, in addition to creating intuitive interfaces for the user.</h3>
 </div>
 
 --- 
 ### About Me:
 
-- I currently work as an IT coordinator and also program the sites of the Glidden company.
-- Project work together with other programmers at mexwebdesign
-- write to me ariel.fuentesgarcia@gmail.com
-- I self-taught programming and took a bootcamp, but I didn't like his teaching.
-- I learn better by watching tutorials and putting into practice what I have learned.
+- I currently develop web applications on my own as I'm looking for a stable job at a company that supports ongoing training.
+
+- I work on projects alongside other programmers from Colombia, Chile, Spain, and Argentina.
+
+- Write to me at ariel.fuentesgarcia@gmail.com.
+
+- I taught myself how to program, and my training has been practical, putting my acquired knowledge to the test on projects I created.
+
 - My English level is A2.
-- I am currently improving my Python skills by taking certification on Udemy.
-- I use JavaScript, REACT.JS, HTML5, CSS3, BOOTSTRAP, MATERIAL UI, SASS, for the Front and I know a little about the Back with Node.js, Express, SQL, POSTGRES and Postman
+
+- I'm currently improving my TypeScript skills with a Udemy course.
+
+- My technical skills include JavaScript, SQL, MySQL, Node.js, Postman for the backend, and for the frontend, I use React-Vite, Bootstrap, Tailwind CSS, HTML5, CSS3, and WordPress (I also modify their templates with code).
 
 ---
 <div align='left'>
